@@ -1,0 +1,6 @@
+{
+  "name": "The Rare Club",
+  "description": "The Rare Club — Where Discipline Becomes Identity. Premium student focus, digital wellbeing, and the 32-Day Focus Journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
